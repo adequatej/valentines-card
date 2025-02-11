@@ -142,7 +142,7 @@ export default function Message({ onSuccess }: { onSuccess: () => void }) {
                     alt="Valentine hearts"
                     fill
                     className="object-cover rounded-lg"
-                    style={{ transform: 'scaleY(-1)' }}
+                    style={{ transform: 'scaleY(1)' }}
                   />
                 </motion.div>
               </motion.div>
